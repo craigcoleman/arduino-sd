@@ -11,8 +11,8 @@ Files: Create and destroy a file on a SD card
 ReadWrite: Read and write data to and from a file on a SD card
 CardInfo: Get information about a SD car
 
-
-
+cc notes:  SD.h and SPI.h are part of the defualt arduino libraries.
+http://arduino.cc/en/Tutorial/Datalogger
 
 
 </pre>
