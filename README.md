@@ -2,7 +2,7 @@
 Arduino SD study.
 <pre>
 http://arduino.cc/en/Reference/SD
-
+https://learn.adafruit.com/adafruit-data-logger-shield/light-and-temperature-logger
 Examples
 
 Datalogger: Log data from three analog sensors to a SD card using the SD library
